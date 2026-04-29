@@ -35,7 +35,7 @@ with trust accounting operations.
 5. Power Automate sends daily alert email automatically at 9AM
 
 ## Skills Demonstrated
-- Advanced Excel formulas (SUMIFS, VLOOKUP, IF, IFERROR)
+- Advanced Excel formulas (SUMIFS, VLOOKUP, IF)
 - VBA Macro development and automation
 - Power Automate flow design
 - Trust accounting principles (reconciliation, discrepancy analysis)
